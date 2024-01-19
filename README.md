@@ -1,6 +1,6 @@
 <h3 align="left">I am a frontend developer from Nigeria</h3>
 
-<p align="left" width="100"> <img src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1705671197~exp=1705671797~hmac=b47e426c0a6ceaa93fd8d4605138ebfe179d8a308de8077dc74d74f261119636" alt="kinsanmi" width="95" /> </p>
+<p align="left" width="100"> <img src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1705671197~exp=1705671797~hmac=b47e426c0a6ceaa93fd8d4605138ebfe179d8a308de8077dc74d74f261119636" alt="kinsanmi" width="100" /> </p>
 
 <p align="left"> <a href="https://twitter.com/blaqdiamond224" target="blank"><img src="https://img.shields.io/twitter/follow/blaqdiamond224?logo=twitter&style=for-the-badge" alt="blaqdiamond224" /></a> </p>
 
