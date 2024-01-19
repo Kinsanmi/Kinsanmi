@@ -1,6 +1,6 @@
 <h3 align="left">I am a frontend developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinsanmi&label=Profile%20views&color=0e75b6&style=flat" alt="kinsanmi" /> </p>
+<p align="left"> <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1705670734~exp=1705671334~hmac=6cf8487f1e6fef20893df61e97961a588cd163a9c122d3e305f792d522fbc0ff" alt="kinsanmi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinsanmi" alt="kinsanmi" /></a> </p>
 
